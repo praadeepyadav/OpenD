@@ -1,5 +1,5 @@
-#A Website to Mint, Buy and Sell NFTs
 
+# A Website to Mint, Buy and Sell NFTs
 # To Install and Run the Project
 
 1. start local dfx
